@@ -1,10 +1,1 @@
- Volume in drive C is Windows Disk
- Volume Serial Number is 4296-8C68
-
- Directory of C:\Users\DELL\Desktop\gitpractice
-
-08/09/2024  10:33 PM    <DIR>          .
-08/09/2024  10:33 PM    <DIR>          ..
-08/09/2024  10:33 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  132,675,420,160 bytes free
+change 1
